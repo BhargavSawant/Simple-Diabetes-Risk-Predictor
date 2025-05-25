@@ -8,7 +8,6 @@ A clean and lightweight machine learning web app built with **Streamlit** that p
 
 - Logistic Regression classifier.
 - Simplified input: only 5 health metrics required.
-- Preprocessed data by removing less relevant columns.
 - User-friendly interface with real-time predictions.
 - Built with Python and Streamlit.
 
