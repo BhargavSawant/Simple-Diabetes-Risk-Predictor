@@ -29,3 +29,7 @@ pip install streamlit scikit-learn pandas
 
 ### Output
 ![output](https://github.com/user-attachments/assets/9fc8d3d3-77dc-4e7d-8199-670c95fc8eee)
+![app · Streamlit - Google Chrome 25-05-2025 11_09_36](https://github.com/user-attachments/assets/551f92df-4d22-414e-93af-904e7d5b38a2)
+![app · Streamlit - Google Chrome 25-05-2025 11_09_17](https://github.com/user-attachments/assets/a678caf6-6a9d-4235-a8f7-f7fc74fa8858)
+
+
