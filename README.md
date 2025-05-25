@@ -26,3 +26,5 @@ A clean and lightweight machine learning web app built with **Streamlit** that p
 
 ```bash
 pip install streamlit scikit-learn pandas
+
+![output](https://github.com/user-attachments/assets/9fc8d3d3-77dc-4e7d-8199-670c95fc8eee)
